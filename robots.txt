@@ -1,3 +1,4 @@
-# Interdit l'exploration de l'Historique des randos (Randothèque des Godillots Ailés).
+# Interdit l'exploration de tout le domaine bondex69009.github.io,
+# dont l'Historique des randos des Godillots Ailés (/randotheque/).
 User-agent: *
-Disallow: /randotheque/
+Disallow: /
