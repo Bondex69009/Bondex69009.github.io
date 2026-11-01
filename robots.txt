@@ -1,0 +1,3 @@
+# Interdit l'exploration de l'Historique des randos (Randothèque des Godillots Ailés).
+User-agent: *
+Disallow: /randotheque/
